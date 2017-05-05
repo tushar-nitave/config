@@ -1,0 +1,36 @@
+/*container*/
+.container{
+    width: 400px;
+    margin-left: 51%;
+    transform: translate(-200px);
+}
+.container div{
+    float: left;
+    margin-right: 12%;
+}
+
+/*header*/
+p{
+    text-align: center;
+    font-size: 44px;
+    color: #000;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+/*upload button*/
+.upload-btn{
+    width:150px;
+    height:40px;
+    background: -webkit-linear-gradient(bottom, #08c, #4cabdb);
+    border-radius: 4px;
+}
+
+.upload-btn a{
+    text-decoration: none;
+    color: #fff;
+    line-height: 40px;
+    padding-left: 48px;
+    font-family: sans-serif;
+    font-weight:normal;
+}
